@@ -1,1 +1,2 @@
-# Image-Classification-CNN
+# Image-Classification
+# Convolutional Neural Networks (CNN)
